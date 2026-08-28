@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vivek Gupta
 
-### 💻 Computer Science Student | Java & DSA | AI/ML | Full-Stack Development | Cybersecurity
+### 💻 Computer Science Student | Java & DSA | AI/ML | Full-Stack Development
 
 I’m a Computer Science student passionate about **problem solving, software development, artificial intelligence, and cybersecurity**. I enjoy building practical projects, solving algorithmic problems, and continuously learning new technologies.
 
@@ -94,7 +94,6 @@ DSA & Problem Solving       █████████████████�
 Java Development            ██████████████████░░░
 AI / Machine Learning       ████████████████░░░░░
 Backend Development         ███████████████░░░░░░
-Cybersecurity               ██████████████░░░░░░░
 System Design               ███████████░░░░░░░░░░
 ```
 
