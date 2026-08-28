@@ -7,29 +7,10 @@ I’m a Computer Science student passionate about **problem solving, software de
 * 🔭 Currently working on **AI-powered cybersecurity projects**
 * 🌱 Currently learning **Data Structures & Algorithms, Machine Learning, Deep Learning & Backend Development**
 * 💻 Practicing **Java and problem solving through LeetCode**
-* 🤖 Exploring **AI/ML applications in cybersecurity**
+* 🤖 Exploring **AI/ML applications**
 * 👯 Open to collaborating on **Java, DSA, AI/ML, Full-Stack & Open-Source projects**
 * 💬 Ask me about **Java, DSA, Python, AI/ML, Web Development & Databases**
 * ⚡ Fun fact: **I enjoy turning complex problems into simple, working solutions.**
-
----
-
-## 🚀 Featured Project
-
-### 🛡️ AI-Powered Real-Time Network Intrusion Detection & Threat Response System
-
-A cybersecurity project focused on detecting and responding to network attacks in real time using **Machine Learning and Deep Learning**.
-
-**Focus Areas:**
-
-* Real-time network traffic analysis
-* Intrusion and anomaly detection
-* CNN-LSTM based classification
-* Cyberattack classification
-* Automated threat response
-* Network security monitoring
-
-**Technologies:** Python • Machine Learning • Deep Learning • TensorFlow • PyTorch • OpenCV • FastAPI
 
 ---
 
@@ -60,15 +41,12 @@ A cybersecurity project focused on detecting and responding to network attacks i
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
 
-### 🗄️ Databases
+### 🗄️ Databases & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### ☁️ Cloud & Tools
-
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
